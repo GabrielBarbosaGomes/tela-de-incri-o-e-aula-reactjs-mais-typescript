@@ -30,9 +30,9 @@ export function Subscribe(){
             <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto">
                 <div className="max-w-[640px]">
                     <Logo />
-                    <h1 className="mt-8 text-[2.5rem] leading-tight">Construa uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React</strong></h1>
+                    <h1 className="mt-8 text-[2.5rem] leading-tight">Construi uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React</strong></h1>
                     <p className="mt-4 text-gray-200 leading-relaxed">
-                        Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado.
+                        Em apenas uma semana eu fui capaz de dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado, visando conquistar minha primeira oportunidade.
                     </p>
                 </div>
 
